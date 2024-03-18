@@ -4,6 +4,7 @@
 }
 
 body{
+    background-color: brown;
     font-family: 'Poppins',sans-serif;
     display: flex ;
     flex-wrap: wrap;
@@ -55,4 +56,8 @@ body{
     height: 400px;
     width: 100%;
     padding: 20px;
+}
+
+.hidden{
+    display: none;
 }
