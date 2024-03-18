@@ -22,3 +22,15 @@ body{
     padding: 0.5rem 1rem;
     cursor: pointer;
 }
+
+.note{
+    background-color: white;
+    box-shadow: 0 0 10px 4px rgba(0, 0, 0, 0.1);
+    margin: 30px 20px;
+    height: 400px;
+    width: 400px;
+}
+
+.note .tools{
+    
+}
